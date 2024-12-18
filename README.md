@@ -55,7 +55,7 @@ Default reference image path:```./input/reference/monica.jpeg```
 
 ## Demo Outputs
 
-![Clip-0](output/clip_0.mp4)
+![Clip-0](https://drive.google.com/file/d/1I900vXHzCAJSIjYnX5Uvm3XHmGnXlGg3/view?usp=sharing)
 ![Clip-1](output/clip_1.mp4)
 
 
