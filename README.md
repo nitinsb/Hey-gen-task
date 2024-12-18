@@ -44,22 +44,6 @@ make ARGS="--video path_to_video --reference path_to_reference_image"
 
 Default video path:```./input/video/short.mp4 ```
 Default reference image path:```./input/reference/monica.jpeg```
-```
-## Reference Image 
-![Monica from friends](/input/reference/monica.jpeg)
-
-## Reference Video 
-### Please click the link to access them
-
-![Guess the Scene](https://drive.google.com/file/d/1P2qs5fVwvOxdmN6nx8E_TYwrvR_kb7Z0/view?usp=sharing)
-
-
-## Demo Outputs
-### Please click the link to access them
-
-![Clip-1](https://drive.google.com/file/d/1nSUa6_AjQf1aa8sBVl_bl3SgEqmJoTrV/view?usp=sharing)
-![Clip-1](https://drive.google.com/file/d/1I900vXHzCAJSIjYnX5Uvm3XHmGnXlGg3/view?usp=sharing)
-```
 
 
 
